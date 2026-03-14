@@ -1,0 +1,22 @@
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\calculator1\bin\Debug\calculator1.exe.config
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\calculator1\bin\Debug\calculator1.exe
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\calculator1\bin\Debug\calculator1.pdb
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\calculator1\obj\Debug\calculator1.csproj.AssemblyReference.cache
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\calculator1\obj\Debug\calculator1.Form1.resources
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\calculator1\obj\Debug\calculator1.Properties.Resources.resources
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\calculator1\obj\Debug\calculator1.csproj.GenerateResource.cache
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\calculator1\obj\Debug\calculator1.csproj.CoreCompileInputs.cache
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\calculator1\obj\Debug\calculator1.exe
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\calculator1\obj\Debug\calculator1.pdb
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\calculator1\obj\Debug\calculator1.exe.config
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Лаба 1\calculator1\bin\Debug\calculator1.exe.config
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Лаба 1\calculator1\bin\Debug\calculator1.exe
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Лаба 1\calculator1\bin\Debug\calculator1.pdb
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Лаба 1\calculator1\obj\Debug\calculator1.csproj.AssemblyReference.cache
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Лаба 1\calculator1\obj\Debug\calculator1.exe.config
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Лаба 1\calculator1\obj\Debug\calculator1.Form1.resources
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Лаба 1\calculator1\obj\Debug\calculator1.Properties.Resources.resources
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Лаба 1\calculator1\obj\Debug\calculator1.csproj.GenerateResource.cache
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Лаба 1\calculator1\obj\Debug\calculator1.csproj.CoreCompileInputs.cache
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Лаба 1\calculator1\obj\Debug\calculator1.exe
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Лаба 1\calculator1\obj\Debug\calculator1.pdb
