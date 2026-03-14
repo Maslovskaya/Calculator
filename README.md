@@ -1,3 +1,3 @@
 # Calculator
 
-![Описание изображения](C:/Users/maslo/OneDrive/Desktop/calc_uml.png)
+![Описание изображения](uml/calc_uml.png)
