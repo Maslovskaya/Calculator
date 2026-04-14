@@ -1,0 +1,165 @@
+﻿<!-- 
+    MainWindow.xaml - Это представление (View) нашего приложения.
+    Здесь только визуальные элементы: кнопки, экран, панель истории.
+    Никакой логики вычислений здесь нет - всё делегируется в код (C#).
+    
+    Используемые паттерны:
+    - MVVM (частично): разделение интерфейса и логики
+    - Grid Layout: сетка для расположения кнопок
+-->
+
+<Window x:Class="Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Калькулятор (Паттерны)" Height="450" Width="550"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanResizeWithGrip">
+
+    <Grid Background="#202020">
+        <!-- Разделяем окно на 2 части: калькулятор (слева) и история (справа) -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <!-- Калькулятор занимает 3 части -->
+            <ColumnDefinition Width="1*"/>
+            <!-- История занимает 1 часть -->
+            <ColumnDefinition Width="5"/>
+            <!-- Разделительная линия -->
+        </Grid.ColumnDefinitions>
+
+        <!-- === ЛЕВАЯ ЧАСТЬ: КАЛЬКУЛЯТОР === -->
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="80"/>
+                <!-- Место для экрана вывода -->
+                <RowDefinition Height="*"/>
+                <!-- Место для кнопок -->
+            </Grid.RowDefinitions>
+
+            <!-- Экран вывода результатов -->
+            <TextBox x:Name="Display" Grid.Row="0" Background="#202020" Foreground="White" 
+                     FontSize="36" TextAlignment="Right" VerticalContentAlignment="Center"
+                     BorderThickness="0" IsReadOnly="True" Margin="10"/>
+
+            <!-- Сетка кнопок 4x5 -->
+            <Grid Grid.Row="1" Margin="5">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <!-- Стили для кнопок (чтобы не повторять код для каждой кнопки) -->
+                <Grid.Resources>
+                    <Style TargetType="Button">
+                        <Setter Property="FontSize" Value="20"/>
+                        <Setter Property="Margin" Value="3"/>
+                        <Setter Property="Background" Value="#3C3C3C"/>
+                        <Setter Property="Foreground" Value="White"/>
+                        <Setter Property="BorderThickness" Value="0"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#505050"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                    <!-- Стиль для кнопок операций (оранжевые) -->
+                    <Style x:Key="OperatorButton" TargetType="Button" BasedOn="{StaticResource {x:Type Button}}">
+                        <Setter Property="Background" Value="#FF9500"/>
+                    </Style>
+                    <!-- Стиль для функциональных кнопок (серые) -->
+                    <Style x:Key="FunctionButton" TargetType="Button" BasedOn="{StaticResource {x:Type Button}}">
+                        <Setter Property="Background" Value="#A5A5A5"/>
+                        <Setter Property="Foreground" Value="Black"/>
+                    </Style>
+                </Grid.Resources>
+
+                <!-- 1 Ряд: Функциональные кнопки -->
+                <Button Content="C" Grid.Row="0" Grid.Column="0" Style="{StaticResource FunctionButton}" Click="Btn_Clear_Click"/>
+                <Button Content="±" Grid.Row="0" Grid.Column="1" Style="{StaticResource FunctionButton}" Click="Btn_Negate_Click"/>
+                <Button Content="%" Grid.Row="0" Grid.Column="2" Style="{StaticResource FunctionButton}" Click="Btn_Percent_Click"/>
+                <Button Content="÷" Grid.Row="0" Grid.Column="3" Style="{StaticResource OperatorButton}" Click="Btn_Operator_Click" Tag="/"/>
+
+                <!-- 2 Ряд: Цифры 7-9 и умножение -->
+                <Button Content="7" Grid.Row="1" Grid.Column="0" Click="Btn_Number_Click"/>
+                <Button Content="8" Grid.Row="1" Grid.Column="1" Click="Btn_Number_Click"/>
+                <Button Content="9" Grid.Row="1" Grid.Column="2" Click="Btn_Number_Click"/>
+                <Button Content="×" Grid.Row="1" Grid.Column="3" Style="{StaticResource OperatorButton}" Click="Btn_Operator_Click" Tag="*"/>
+
+                <!-- 3 Ряд: Цифры 4-6 и вычитание -->
+                <Button Content="4" Grid.Row="2" Grid.Column="0" Click="Btn_Number_Click"/>
+                <Button Content="5" Grid.Row="2" Grid.Column="1" Click="Btn_Number_Click"/>
+                <Button Content="6" Grid.Row="2" Grid.Column="2" Click="Btn_Number_Click"/>
+                <Button Content="−" Grid.Row="2" Grid.Column="3" Style="{StaticResource OperatorButton}" Click="Btn_Operator_Click" Tag="-"/>
+
+                <!-- 4 Ряд: Цифры 1-3 и сложение -->
+                <Button Content="1" Grid.Row="3" Grid.Column="0" Click="Btn_Number_Click"/>
+                <Button Content="2" Grid.Row="3" Grid.Column="1" Click="Btn_Number_Click"/>
+                <Button Content="3" Grid.Row="3" Grid.Column="2" Click="Btn_Number_Click"/>
+                <Button Content="+" Grid.Row="3" Grid.Column="3" Style="{StaticResource OperatorButton}" Click="Btn_Operator_Click" Tag="+"/>
+
+                <!-- 5 Ряд: Ноль, запятая и равно -->
+                <Button Content="0" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Click="Btn_Number_Click"/>
+                <Button Content="," Grid.Row="4" Grid.Column="2" Click="Btn_Number_Click"/>
+                <Button Content="=" Grid.Row="4" Grid.Column="3" Style="{StaticResource OperatorButton}" Click="Btn_Equals_Click"/>
+            </Grid>
+        </Grid>
+
+        <!-- === ПРАВАЯ ЧАСТЬ: ИСТОРИЯ ВЫЧИСЛЕНИЙ === -->
+        <Grid Grid.Column="1" Background="#2D2D2D">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <!-- Заголовок -->
+                <RowDefinition Height="*"/>
+                <!-- Список истории -->
+                <RowDefinition Height="40"/>
+                <!-- Кнопка очистки -->
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="0" Text="История" Foreground="White" FontSize="18" FontWeight="Bold" 
+                       VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+            <!-- Список для отображения истории (использует DataBinding) -->
+            <ListBox x:Name="HistoryList" Grid.Row="1" Background="#2D2D2D" Foreground="#CCCCCC" 
+                     BorderThickness="0" FontSize="14" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Margin="5">
+                            <!-- Выражение (серым цветом) -->
+                            <TextBlock Text="{Binding Expression}" Foreground="#888888" FontSize="12"/>
+                            <!-- Результат (оранжевым цветом) -->
+                            <TextBlock Text="{Binding Result}" Foreground="#FF9500" FontSize="16" FontWeight="Bold"/>
+                            <Separator Background="#444444" Margin="0,5,0,0"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+            <!-- Кнопка очистки истории -->
+            <Button Grid.Row="2" Content="Очистить историю" Background="#444444" Foreground="White"
+                    BorderThickness="0" Margin="5" Click="Btn_ClearHistory_Click">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#666666"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+        </Grid>
+
+        <!-- Вертикальная разделительная линия -->
+        <Grid Grid.Column="2" Background="#444444"/>
+    </Grid>
+</Window>
