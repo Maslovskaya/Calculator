@@ -1,0 +1,95 @@
+C:\Users\User\source\repos\Барков\Calculate\Calculate\bin\Debug\net8.0-windows\Calculate.exe
+C:\Users\User\source\repos\Барков\Calculate\Calculate\bin\Debug\net8.0-windows\Calculate.deps.json
+C:\Users\User\source\repos\Барков\Calculate\Calculate\bin\Debug\net8.0-windows\Calculate.runtimeconfig.json
+C:\Users\User\source\repos\Барков\Calculate\Calculate\bin\Debug\net8.0-windows\Calculate.dll
+C:\Users\User\source\repos\Барков\Calculate\Calculate\bin\Debug\net8.0-windows\Calculate.pdb
+C:\Users\User\source\repos\Барков\Calculate\Calculate\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\User\source\repos\Барков\Calculate\Calculate\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\User\source\repos\Барков\Calculate\Calculate\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\source\repos\Барков\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate_MarkupCompile.cache
+C:\Users\User\source\repos\Барков\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.g.resources
+C:\Users\User\source\repos\Барков\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Барков\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Барков\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.AssemblyInfo.cs
+C:\Users\User\source\repos\Барков\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Барков\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.dll
+C:\Users\User\source\repos\Барков\Calculate\Calculate\obj\Debug\net8.0-windows\refint\Calculate.dll
+C:\Users\User\source\repos\Барков\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.pdb
+C:\Users\User\source\repos\Барков\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.genruntimeconfig.cache
+C:\Users\User\source\repos\Барков\Calculate\Calculate\obj\Debug\net8.0-windows\ref\Calculate.dll
+D:\Calculate\Calculate\bin\Debug\net8.0-windows\Calculate.exe
+D:\Calculate\Calculate\bin\Debug\net8.0-windows\Calculate.deps.json
+D:\Calculate\Calculate\bin\Debug\net8.0-windows\Calculate.runtimeconfig.json
+D:\Calculate\Calculate\bin\Debug\net8.0-windows\Calculate.dll
+D:\Calculate\Calculate\bin\Debug\net8.0-windows\Calculate.pdb
+D:\Calculate\Calculate\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Calculate\Calculate\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Calculate\Calculate\obj\Debug\net8.0-windows\App.g.cs
+D:\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate_MarkupCompile.cache
+D:\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.g.resources
+D:\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.AssemblyInfoInputs.cache
+D:\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.AssemblyInfo.cs
+D:\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.csproj.CoreCompileInputs.cache
+D:\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.dll
+D:\Calculate\Calculate\obj\Debug\net8.0-windows\refint\Calculate.dll
+D:\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.pdb
+D:\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.genruntimeconfig.cache
+D:\Calculate\Calculate\obj\Debug\net8.0-windows\ref\Calculate.dll
+C:\Users\maslo\OneDrive\Desktop\Calculate\Calculate\bin\Debug\net8.0-windows\Calculate.exe
+C:\Users\maslo\OneDrive\Desktop\Calculate\Calculate\bin\Debug\net8.0-windows\Calculate.deps.json
+C:\Users\maslo\OneDrive\Desktop\Calculate\Calculate\bin\Debug\net8.0-windows\Calculate.runtimeconfig.json
+C:\Users\maslo\OneDrive\Desktop\Calculate\Calculate\bin\Debug\net8.0-windows\Calculate.dll
+C:\Users\maslo\OneDrive\Desktop\Calculate\Calculate\bin\Debug\net8.0-windows\Calculate.pdb
+C:\Users\maslo\OneDrive\Desktop\Calculate\Calculate\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\maslo\OneDrive\Desktop\Calculate\Calculate\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\maslo\OneDrive\Desktop\Calculate\Calculate\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\maslo\OneDrive\Desktop\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate_MarkupCompile.cache
+C:\Users\maslo\OneDrive\Desktop\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.g.resources
+C:\Users\maslo\OneDrive\Desktop\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maslo\OneDrive\Desktop\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.AssemblyInfoInputs.cache
+C:\Users\maslo\OneDrive\Desktop\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.AssemblyInfo.cs
+C:\Users\maslo\OneDrive\Desktop\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\maslo\OneDrive\Desktop\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.dll
+C:\Users\maslo\OneDrive\Desktop\Calculate\Calculate\obj\Debug\net8.0-windows\refint\Calculate.dll
+C:\Users\maslo\OneDrive\Desktop\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.pdb
+C:\Users\maslo\OneDrive\Desktop\Calculate\Calculate\obj\Debug\net8.0-windows\Calculate.genruntimeconfig.cache
+C:\Users\maslo\OneDrive\Desktop\Calculate\Calculate\obj\Debug\net8.0-windows\ref\Calculate.dll
+C:\Users\maslo\OneDrive\Desktop\Calculate_lab4\Calculate\bin\Debug\net8.0-windows\Calculate.exe
+C:\Users\maslo\OneDrive\Desktop\Calculate_lab4\Calculate\bin\Debug\net8.0-windows\Calculate.deps.json
+C:\Users\maslo\OneDrive\Desktop\Calculate_lab4\Calculate\bin\Debug\net8.0-windows\Calculate.runtimeconfig.json
+C:\Users\maslo\OneDrive\Desktop\Calculate_lab4\Calculate\bin\Debug\net8.0-windows\Calculate.dll
+C:\Users\maslo\OneDrive\Desktop\Calculate_lab4\Calculate\bin\Debug\net8.0-windows\Calculate.pdb
+C:\Users\maslo\OneDrive\Desktop\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\maslo\OneDrive\Desktop\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\maslo\OneDrive\Desktop\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\maslo\OneDrive\Desktop\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\Calculate_MarkupCompile.cache
+C:\Users\maslo\OneDrive\Desktop\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\Calculate.g.resources
+C:\Users\maslo\OneDrive\Desktop\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maslo\OneDrive\Desktop\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\Calculate.AssemblyInfoInputs.cache
+C:\Users\maslo\OneDrive\Desktop\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\Calculate.AssemblyInfo.cs
+C:\Users\maslo\OneDrive\Desktop\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\maslo\OneDrive\Desktop\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\Calculate.dll
+C:\Users\maslo\OneDrive\Desktop\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\refint\Calculate.dll
+C:\Users\maslo\OneDrive\Desktop\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\Calculate.pdb
+C:\Users\maslo\OneDrive\Desktop\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\Calculate.genruntimeconfig.cache
+C:\Users\maslo\OneDrive\Desktop\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\ref\Calculate.dll
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Calculate_lab4\Calculate\bin\Debug\net8.0-windows\Calculate.exe
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Calculate_lab4\Calculate\bin\Debug\net8.0-windows\Calculate.deps.json
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Calculate_lab4\Calculate\bin\Debug\net8.0-windows\Calculate.runtimeconfig.json
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Calculate_lab4\Calculate\bin\Debug\net8.0-windows\Calculate.dll
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Calculate_lab4\Calculate\bin\Debug\net8.0-windows\Calculate.pdb
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\MainWindow.baml
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\App.g.cs
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\Calculate_MarkupCompile.cache
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\Calculate.g.resources
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\Calculate.GeneratedMSBuildEditorConfig.editorconfig
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\Calculate.AssemblyInfoInputs.cache
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\Calculate.AssemblyInfo.cs
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\Calculate.csproj.CoreCompileInputs.cache
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\Calculate.dll
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\refint\Calculate.dll
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\Calculate.pdb
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\Calculate.genruntimeconfig.cache
+D:\перекинуть на второй ноут\МОИ ПАПКИ\Лабораторные работы и разные ворд доки БНТУ\2 курс\Git (Станкевич)\Calculate_lab4\Calculate\obj\Debug\net8.0-windows\ref\Calculate.dll

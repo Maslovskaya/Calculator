@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u043C\u043E\u0438 \u043F\u0430\u043F\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0431\u043D\u0442\u0443\\2 \u043A\u0443\u0440\u0441\\git (\u0441\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\calculate_lab4\\calculate\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|solutionrelative:calculate\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u043C\u043E\u0438 \u043F\u0430\u043F\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0431\u043D\u0442\u0443\\2 \u043A\u0443\u0440\u0441\\git (\u0441\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\calculate_lab4\\calculate\\mainwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|solutionrelative:calculate\\mainwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u043C\u043E\u0438 \u043F\u0430\u043F\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0431\u043D\u0442\u0443\\2 \u043A\u0443\u0440\u0441\\git (\u0441\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\calculate_lab4\\calculate\\commands\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|solutionrelative:calculate\\commands\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u043C\u043E\u0438 \u043F\u0430\u043F\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0431\u043D\u0442\u0443\\2 \u043A\u0443\u0440\u0441\\git (\u0441\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\calculate_lab4\\calculate\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|solutionrelative:calculate\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u043C\u043E\u0438 \u043F\u0430\u043F\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0431\u043D\u0442\u0443\\2 \u043A\u0443\u0440\u0441\\git (\u0441\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\calculate_lab4\\calculate\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|solutionrelative:calculate\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u043C\u043E\u0438 \u043F\u0430\u043F\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0431\u043D\u0442\u0443\\2 \u043A\u0443\u0440\u0441\\git (\u0441\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\calculate_lab4\\calculate\\commands\\clearcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|solutionrelative:calculate\\commands\\clearcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u043C\u043E\u0438 \u043F\u0430\u043F\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0431\u043D\u0442\u0443\\2 \u043A\u0443\u0440\u0441\\git (\u0441\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\calculate_lab4\\calculate\\commands\\equalscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|solutionrelative:calculate\\commands\\equalscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u043C\u043E\u0438 \u043F\u0430\u043F\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0431\u043D\u0442\u0443\\2 \u043A\u0443\u0440\u0441\\git (\u0441\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\calculate_lab4\\calculate\\commands\\operatorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|solutionrelative:calculate\\commands\\operatorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u043C\u043E\u0438 \u043F\u0430\u043F\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0431\u043D\u0442\u0443\\2 \u043A\u0443\u0440\u0441\\git (\u0441\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\calculate_lab4\\calculate\\commands\\numbercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|solutionrelative:calculate\\commands\\numbercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u043C\u043E\u0438 \u043F\u0430\u043F\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0431\u043D\u0442\u0443\\2 \u043A\u0443\u0440\u0441\\git (\u0441\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\calculate_lab4\\calculate\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|solutionrelative:calculate\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u043C\u043E\u0438 \u043F\u0430\u043F\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0431\u043D\u0442\u0443\\2 \u043A\u0443\u0440\u0441\\git (\u0441\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\calculate_lab4\\calculate\\logic\\calculatorlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|solutionrelative:calculate\\logic\\calculatorlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u043C\u043E\u0438 \u043F\u0430\u043F\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0431\u043D\u0442\u0443\\2 \u043A\u0443\u0440\u0441\\git (\u0441\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\calculate_lab4\\calculate\\logic\\calculatorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|solutionrelative:calculate\\logic\\calculatorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u043C\u043E\u0438 \u043F\u0430\u043F\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0431\u043D\u0442\u0443\\2 \u043A\u0443\u0440\u0441\\git (\u0441\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\calculate_lab4\\calculate\\models\\calculatorbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|solutionrelative:calculate\\models\\calculatorbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u043C\u043E\u0438 \u043F\u0430\u043F\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0431\u043D\u0442\u0443\\2 \u043A\u0443\u0440\u0441\\git (\u0441\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\calculate_lab4\\calculate\\managers\\historymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|solutionrelative:calculate\\managers\\historymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u043C\u043E\u0438 \u043F\u0430\u043F\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0431\u043D\u0442\u0443\\2 \u043A\u0443\u0440\u0441\\git (\u0441\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\calculate_lab4\\calculate\\logic\\operationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|solutionrelative:calculate\\logic\\operationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u043C\u043E\u0438 \u043F\u0430\u043F\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0431\u043D\u0442\u0443\\2 \u043A\u0443\u0440\u0441\\git (\u0441\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\calculate_lab4\\calculate\\logic\\ioperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|solutionrelative:calculate\\logic\\ioperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u043C\u043E\u0438 \u043F\u0430\u043F\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0431\u043D\u0442\u0443\\2 \u043A\u0443\u0440\u0441\\git (\u0441\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\calculate_lab4\\calculate\\builders\\calculatorbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|solutionrelative:calculate\\builders\\calculatorbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|d:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u043C\u043E\u0438 \u043F\u0430\u043F\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0431\u043D\u0442\u0443\\2 \u043A\u0443\u0440\u0441\\git (\u0441\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\calculate_lab4\\calculate\\calculate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B7B3CDE6-07D0-4A7D-987F-F63F2D04A26D}|Calculate\\Calculate.csproj|solutionrelative:calculate\\calculate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Calculate\\MainWindow.xaml",
+              "ToolTip": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\MainWindow.xaml",
+              "RelativeToolTip": "Calculate\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-28T19:14:26.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Calculate\\MainWindow.xaml",
+              "ToolTip": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\MainWindow.xaml",
+              "RelativeToolTip": "Calculate\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-28T19:07:16.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Calculate\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Calculate\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:42:18.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\App.xaml",
+              "RelativeDocumentMoniker": "Calculate\\App.xaml",
+              "ToolTip": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\App.xaml",
+              "RelativeToolTip": "Calculate\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-28T12:49:36.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommandManager.cs",
+              "DocumentMoniker": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Commands\\CommandManager.cs",
+              "RelativeDocumentMoniker": "Calculate\\Commands\\CommandManager.cs",
+              "ToolTip": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Commands\\CommandManager.cs",
+              "RelativeToolTip": "Calculate\\Commands\\CommandManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:01:29.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClearCommand.cs",
+              "DocumentMoniker": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Commands\\ClearCommand.cs",
+              "RelativeDocumentMoniker": "Calculate\\Commands\\ClearCommand.cs",
+              "ToolTip": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Commands\\ClearCommand.cs",
+              "RelativeToolTip": "Calculate\\Commands\\ClearCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:01:11.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EqualsCommand.cs",
+              "DocumentMoniker": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Commands\\EqualsCommand.cs",
+              "RelativeDocumentMoniker": "Calculate\\Commands\\EqualsCommand.cs",
+              "ToolTip": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Commands\\EqualsCommand.cs",
+              "RelativeToolTip": "Calculate\\Commands\\EqualsCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:00:56.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OperatorCommand.cs",
+              "DocumentMoniker": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Commands\\OperatorCommand.cs",
+              "RelativeDocumentMoniker": "Calculate\\Commands\\OperatorCommand.cs",
+              "ToolTip": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Commands\\OperatorCommand.cs",
+              "RelativeToolTip": "Calculate\\Commands\\OperatorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:00:41.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NumberCommand.cs",
+              "DocumentMoniker": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Commands\\NumberCommand.cs",
+              "RelativeDocumentMoniker": "Calculate\\Commands\\NumberCommand.cs",
+              "ToolTip": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Commands\\NumberCommand.cs",
+              "RelativeToolTip": "Calculate\\Commands\\NumberCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:00:18.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Commands\\ICommand.cs",
+              "RelativeDocumentMoniker": "Calculate\\Commands\\ICommand.cs",
+              "ToolTip": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Commands\\ICommand.cs",
+              "RelativeToolTip": "Calculate\\Commands\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:00:00.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CalculatorState.cs",
+              "DocumentMoniker": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Logic\\CalculatorState.cs",
+              "RelativeDocumentMoniker": "Calculate\\Logic\\CalculatorState.cs",
+              "ToolTip": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Logic\\CalculatorState.cs",
+              "RelativeToolTip": "Calculate\\Logic\\CalculatorState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T18:57:52.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOperation.cs",
+              "DocumentMoniker": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Logic\\IOperation.cs",
+              "RelativeDocumentMoniker": "Calculate\\Logic\\IOperation.cs",
+              "ToolTip": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Logic\\IOperation.cs",
+              "RelativeToolTip": "Calculate\\Logic\\IOperation.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA5wEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:52:12.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CalculatorLogic.cs",
+              "DocumentMoniker": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Logic\\CalculatorLogic.cs",
+              "RelativeDocumentMoniker": "Calculate\\Logic\\CalculatorLogic.cs",
+              "ToolTip": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Logic\\CalculatorLogic.cs",
+              "RelativeToolTip": "Calculate\\Logic\\CalculatorLogic.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T19:19:45.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CalculatorBuilder.cs",
+              "DocumentMoniker": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Builders\\CalculatorBuilder.cs",
+              "RelativeDocumentMoniker": "Calculate\\Builders\\CalculatorBuilder.cs",
+              "ToolTip": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Builders\\CalculatorBuilder.cs",
+              "RelativeToolTip": "Calculate\\Builders\\CalculatorBuilder.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv1kAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T19:20:46.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HistoryManager.cs",
+              "DocumentMoniker": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Managers\\HistoryManager.cs",
+              "RelativeDocumentMoniker": "Calculate\\Managers\\HistoryManager.cs",
+              "ToolTip": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Managers\\HistoryManager.cs",
+              "RelativeToolTip": "Calculate\\Managers\\HistoryManager.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:51:18.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OperationFactory.cs",
+              "DocumentMoniker": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Logic\\OperationFactory.cs",
+              "RelativeDocumentMoniker": "Calculate\\Logic\\OperationFactory.cs",
+              "ToolTip": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Logic\\OperationFactory.cs",
+              "RelativeToolTip": "Calculate\\Logic\\OperationFactory.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T19:19:20.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Calculate.csproj",
+              "DocumentMoniker": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Calculate.csproj",
+              "RelativeDocumentMoniker": "Calculate\\Calculate.csproj",
+              "ToolTip": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Calculate.csproj",
+              "RelativeToolTip": "Calculate\\Calculate.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-29T18:49:55.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CalculatorButton.cs",
+              "DocumentMoniker": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Models\\CalculatorButton.cs",
+              "RelativeDocumentMoniker": "Calculate\\Models\\CalculatorButton.cs",
+              "ToolTip": "D:\\\u043F\u0435\u0440\u0435\u043A\u0438\u043D\u0443\u0442\u044C \u043D\u0430 \u0432\u0442\u043E\u0440\u043E\u0439 \u043D\u043E\u0443\u0442\\\u041C\u041E\u0418 \u041F\u0410\u041F\u041A\u0418\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B \u0438 \u0440\u0430\u0437\u043D\u044B\u0435 \u0432\u043E\u0440\u0434 \u0434\u043E\u043A\u0438 \u0411\u041D\u0422\u0423\\2 \u043A\u0443\u0440\u0441\\Git (\u0421\u0442\u0430\u043D\u043A\u0435\u0432\u0438\u0447)\\Calculate_lab4\\Calculate\\Models\\CalculatorButton.cs",
+              "RelativeToolTip": "Calculate\\Models\\CalculatorButton.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAowFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:50:30.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
